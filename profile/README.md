@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 🙋‍♀️ Cambrian makes everything happen
-🌈 Contribution guidelines - if you are building a complex AVS, please [apply](https://bit.ly/cambrian-early-access) 
-👩‍💻 Useful resources - https://docs.cambrian.one
+🌈 Contribution guidelines - if you are building a complex AVS, please [apply](https://bit.ly/cambrian-early-access)<br />
+👩‍💻 Useful resources - https://docs.cambrian.one<br />
 🍿 Fun facts - A fun fact about the Cambrian period is that it saw the "weirdest" creatures ever, like Hallucigenia, which had spikes on its back and legs that looked like tentacles!
 
 <!--
